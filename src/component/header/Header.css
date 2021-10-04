@@ -1,0 +1,15 @@
+nav{
+    background: purple;
+    padding: 10px 10px;
+}
+nav ul{
+    margin: 0px 20%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}

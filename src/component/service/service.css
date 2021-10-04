@@ -1,0 +1,18 @@
+.course{
+    height: 450px;
+    background: rgb(243, 239, 239);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px darkblue;
+
+}
+
+.course img{
+    width: 250px;
+    height: 200px;
+}
+button{
+    background-color: orange;
+    padding: 2px 10px;
+    border-radius: 10px;
+}
