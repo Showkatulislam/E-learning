@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import About from './component/About/About';
 import Contact from './component/Contact/Contact';
+import Notfound from './component/NotFound/Notfound';
 
 
 function App() {
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path="/contact">
             <Contact></Contact>
+          </Route>
+          <Route path="*">
+            <Notfound></Notfound>
           </Route>
         </Switch>
         <Footer></Footer>
