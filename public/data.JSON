@@ -62,5 +62,13 @@
       "rating": 5,
       "price": 12.33,
       "img": "https://ghru.edu.in/onlinecourse/admin/courses/python_banner.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Complete 2021 Web Development Bootcamp",
+      "teacher": "showkatul islam",
+      "rating": 5,
+      "price": 12.33,
+      "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_481292845_77896.jpg"
     }
   ]
